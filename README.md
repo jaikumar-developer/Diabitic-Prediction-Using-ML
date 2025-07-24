@@ -80,13 +80,3 @@ Copy
 Edit
 out = {1: "Diabetic", 0: "Non-Diabetic"}
 print(out[y_pred[0]])
-📂 Project Structure
-bash
-Copy
-Edit
-📁 Diabetic_Prediction/
-│
-├── Diabetic Prediction.ipynb        # Jupyter notebook with full code
-├── diabetic_dump.pk1                # Trained model file
-├── README.md                        # Project documentation
-├── requirements.txt                 # Python dependencies
