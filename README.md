@@ -120,5 +120,5 @@ Predicted Output: Diabetic
 ---
 
 ## 🧠 Author
-Made with ❤️ by [Your Name]  
-[GitHub Profile](https://github.com/yourusername)
+Made with ❤️ by [Jaikumar]  
+[Linkedin](www.linkedin.com/in/jaikumarbaskaran)
